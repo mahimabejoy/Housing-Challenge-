@@ -1,0 +1,1 @@
+# This is a React webapp which uses data from Statistics Canada and the MLS HPI to display rental prices, average motrgage payments, and average home prices throughout Canada. 
