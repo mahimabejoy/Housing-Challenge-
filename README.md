@@ -17,13 +17,16 @@ Interactive Search – Filter by housing costs, employment trends, and amenities
 
 Data-Driven Insights – Visualize housing affordability using reliable public datasets
 
+
 📊 Data Sources
 
 Statistics Canada – Demographic and economic indicators
 
 MLS Home Price Index (HPI) – Housing price trends and affordability metrics
 
+
 🛠️ Tech Stack
+
 Frontend:	React, Next.js
 Backend:	Python (Machine Learning Model, API integration)
 
