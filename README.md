@@ -47,5 +47,5 @@ More granular filters (e.g., neighborhood-level analysis)
 
 Interactive maps for visual exploration
 
-![Alt text](Seneca hackathon.png)
+![Alt text](https://github.com/mahimabejoy/Housing-Challenge-/blob/master/Seneca%20hackathon.png)
 
