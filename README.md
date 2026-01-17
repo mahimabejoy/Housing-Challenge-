@@ -5,7 +5,7 @@ The goal is to simplify decision-making for individuals and families looking for
 
 🌐 Live Demo: https://musical-puffpuff-48aa58.netlify.app/
 
-## ✨ Key Features
+## Key Features
 
 City Comparison Dashboard – Explore and compare cities based on rental prices, home prices, job opportunities, and local facilities
 
@@ -16,21 +16,21 @@ Interactive Search – Filter by housing costs, employment trends, and amenities
 Data-Driven Insights – Visualize housing affordability using reliable public datasets
 
 
-## 📊 Data Sources
+## Data Sources
 
 Statistics Canada – Demographic and economic indicators
 
 MLS Home Price Index (HPI) – Housing price trends and affordability metrics
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Frontend:	React, Next.js
 Backend:	Python (Machine Learning Model, API integration)
 
 
 
-## ⚡ How It Works
+## How It Works
 
 Search – Enter your housing requirements (budget, job opportunities, lifestyle preferences).
 
@@ -39,7 +39,7 @@ Recommendation – The ML model analyzes Statistics Canada and MLS HPI data to i
 Explore Details – View city-specific data, including rental prices, employment opportunities, competition levels, and facility availability.
 
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 Integration of real-time housing market updates
 
